@@ -5,7 +5,7 @@ En bash ejecuta los siguientes comandos:
 ```bash
 git clone https://github.com/whoamijas0n/BitCalculator.git
 cd BitCalculator
-gcc BitCalculator.c -o bit && ./bit~   
+gcc BitCalculator.c -o bit && ./bit
 ```
 Pero antes asegurate de tener instaladas las dependencias:
 *gcc
